@@ -1,0 +1,22 @@
+{
+  "name": "lunar-escape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezsimartin/lunar-escape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezsimartin/lunar-escape/issues"
+  },
+  "homepage": "https://github.com/dezsimartin/lunar-escape#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
