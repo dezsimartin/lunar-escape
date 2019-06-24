@@ -32,6 +32,7 @@ const move = (arr, where) => {
   }
 };
 
+module.exports = move;
 /* w=up;
 s=down;
 a=left;
